@@ -1,5 +1,5 @@
 # Hangman-game
-THe hangman game is a simple game in which you choose letters to complete the word
+THe hangman game is a simple game in which you choose letters to complete the secret word
 
 You have a keyboard to choose letters. if the letter you choosed is not in the secret word. 
 When you a letter, it is marked as "used" ("red" background on the boutton) and is no longer choosable. if the letter is in the word, the letter is added to the word.
